@@ -13,21 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Your Site Title"
-email: &EMAIL "username@example.edu"
+title: "Erin Ellefsen's Website"
+email: &EMAIL "ellefs2@stolaf.edu"
 description:
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-github_username: &GITHUB username
+  My name is Erin and I have a dog and a cat
+github_username: &GITHUB ellefer
 minimal_mistakes_skin: default
 search: true
 
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Erin Ellefsen"
+  avatar : "/assets/images/Rigby.jpeg"
+  bio    : " My name is Erin and I have a dog and a cat."
   links:
     - label: "✉ Email"
       icon: "fab"
