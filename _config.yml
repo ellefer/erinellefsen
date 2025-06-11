@@ -34,7 +34,7 @@ author:
       url: !join ["https://github.com/", *GITHUB]
 
 header: 
-  image: "/assets/images/EE.jpeg"
+  overlay_image: "/assets/images/EE.jpeg"
 
 footer:
   links:
