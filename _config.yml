@@ -23,7 +23,7 @@ search: true
 
 author:
   name   : "Erin Ellefsen"
-  image : "/assets/images/EE.jpeg"
+  image: "/assets/images/EE.jpeg"
   bio    : "I am an applied mathematician and faculty member at St. Olaf College."
   links:
     - label: "✉ Email"
@@ -72,7 +72,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: splash
       author_profile: true
       read_time: true
       comments: true
