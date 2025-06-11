@@ -23,7 +23,7 @@ search: true
 
 author:
   name   : "Erin Ellefsen"
-  avatar : "/assets/images/Rigby.jpeg"
+  avatar : "/assets/images/EE.jpeg"
   bio    : " I am an applied mathematician and faculty member at St. Olaf College. My current research interests are modeling ecological processes such as territory development, habitat fragmentation, and species competition."
   links:
     - label: "✉ Email"
