@@ -24,7 +24,7 @@ search: true
 author:
   name   : "Erin Ellefsen"
   image : "/assets/images/EE.jpeg"
-  bio    : " I am an applied mathematician and faculty member at St. Olaf College."
+  bio    : "I am an applied mathematician and faculty member at St. Olaf College."
   links:
     - label: "✉ Email"
       icon: "fab"
