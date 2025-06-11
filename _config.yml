@@ -28,19 +28,19 @@ author:
   links:
     - label: "✉ Email"
       icon: "fab"
-      url: !join ["mailto:", ellefs2@stolaf.edu]
+      url: !join ["mailto:", *EMAIL]
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: !join ["https://github.com/", ellefer]
+      url: !join ["https://github.com/", *GITHUB]
 
 footer:
   links:
     - label: "Email"
       icon: "fab fa-fw fa-envelope"
-      url: !join ["mailto:", ellefs2@stolaf.edu]
+      url: !join ["mailto:", *EMAIL]
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: !join ["https://github.com/", ellefer]
+      url: !join ["https://github.com/", *GITHUB]
 
 # Build settings
 markdown: kramdown
