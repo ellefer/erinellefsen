@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 header: 
-  overlay-image: "/assets/images/EE.jpeg"
+  overlay-image: "assets/images/EE.jpeg"
 
 title: ""
 email: &EMAIL "ellefs2@stolaf.edu"
