@@ -15,8 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Erin Ellefsen's Website"
 email: &EMAIL "ellefs2@stolaf.edu"
-description:
-  My name is Erin and I have a dog and a cat
+description: "My professional website"
 github_username: &GITHUB ellefer
 minimal_mistakes_skin: default
 search: true
@@ -25,23 +24,23 @@ search: true
 author:
   name   : "Erin Ellefsen"
   avatar : "/assets/images/Rigby.jpeg"
-  bio    : " My name is Erin and I have a dog and a cat."
+  bio    : " I am an applied mathematician and faculty member at St. Olaf College. My current research interests are modeling ecological processes such as territory development, habitat fragmentation, and species competition."
   links:
     - label: "✉ Email"
       icon: "fab"
-      url: !join ["mailto:", *EMAIL]
+      url: !join ["mailto:", *ellefs2@stolaf.edu]
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: !join ["https://github.com/", *GITHUB]
+      url: !join ["https://github.com/", *ellefer]
 
 footer:
   links:
     - label: "Email"
       icon: "fab fa-fw fa-envelope"
-      url: !join ["mailto:", *EMAIL]
+      url: !join ["mailto:", *ellefs2@stolaf.edu]
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: !join ["https://github.com/", *GITHUB]
+      url: !join ["https://github.com/", *ellefer]
 
 # Build settings
 markdown: kramdown
