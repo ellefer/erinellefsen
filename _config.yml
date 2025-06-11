@@ -23,7 +23,7 @@ search: true
 
 author:
   name   : "Erin Ellefsen"
-  image: "/assets/images/EE.jpeg"
+  avatar: "/assets/images/olafmathematics.png"
   bio    : "I am an applied mathematician and faculty member at St. Olaf College."
   links:
     - label: "✉ Email"
@@ -34,7 +34,7 @@ author:
       url: !join ["https://github.com/", *GITHUB]
 
 header: 
-  overlay_image: "/assets/images/EE.jpeg"
+  image: "/assets/images/EE.jpeg"
 
 footer:
   links:
